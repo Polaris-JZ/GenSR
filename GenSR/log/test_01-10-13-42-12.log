@@ -1,0 +1,4 @@
+2025-01-10 13:42:19,063 - root - INFO - Loaded the base_model: google/flan-t5-base
+2025-01-10 13:47:53,579 - root - INFO - Loaded the test dataset
+2025-01-10 14:32:57,191 - root - INFO - [Test] Evaluation Results for rec: HR@5:0.6102,NDCG@5:0.4922,HR@10:0.7200,NDCG@10:0.5278,HR@20:0.8253,NDCG@20:0.5544
+2025-01-10 15:26:40,345 - root - INFO - [Test] Evaluation Results for src: HR@5:0.9782,NDCG@5:0.9664,HR@10:0.9853,NDCG@10:0.9687,HR@20:0.9916,NDCG@20:0.9703
